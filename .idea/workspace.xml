@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4dce33d8-9bfc-42fb-b90e-2eee7d35192c" name="Changes" comment="primera subida, estructura bbdd hecha">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/proyectodi/css/estilosVideojuego.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/proyectodi/css/estilosVideojuego.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/proyectodi/css/estilosVideojuego.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/proyectodi/videojuego-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/proyectodi/videojuego-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "list.type.of.created.stylesheet": "CSS"
+    "last_opened_file_path": "C:/Users/Usuario/AppData/Local/SceneBuilder/SceneBuilder.exe",
+    "list.type.of.created.stylesheet": "CSS",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -56,6 +60,7 @@
       <workItem from="1668590510895" duration="136000" />
       <workItem from="1668590699169" duration="608000" />
       <workItem from="1668592336192" duration="964000" />
+      <workItem from="1668626124976" duration="2240000" />
     </task>
     <task id="LOCAL-00001" summary="primera subida, estructura bbdd hecha">
       <created>1668586775437</created>

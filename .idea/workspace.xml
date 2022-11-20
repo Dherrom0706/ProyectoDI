@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4dce33d8-9bfc-42fb-b90e-2eee7d35192c" name="Changes" comment="primera subida, estructura bbdd hecha">
+    <list default="true" id="4dce33d8-9bfc-42fb-b90e-2eee7d35192c" name="Changes" comment="subida cambio para menu, empezamos los botones, intentar ponerle animacion al hacer nueva stage">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/proyectodi/VideojuegoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/proyectodi/images/icono.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/proyectodi/css/estilosVideojuego.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/proyectodi/css/estilosVideojuego.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/proyectodi/videojuego-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/proyectodi/videojuego-view.fxml" afterDir="false" />
     </list>
@@ -17,9 +20,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="FxmlFile" />
         <option value="CSS File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -35,19 +38,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Usuario/AppData/Local/SceneBuilder/SceneBuilder.exe",
-    "list.type.of.created.stylesheet": "CSS",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Usuario/AppData/Local/SceneBuilder/SceneBuilder.exe&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario\IdeaProjects\ProyectoDI\src\main\resources\com\example\proyectodi\images" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,7 +68,8 @@
       <workItem from="1668590510895" duration="136000" />
       <workItem from="1668590699169" duration="608000" />
       <workItem from="1668592336192" duration="964000" />
-      <workItem from="1668626124976" duration="2240000" />
+      <workItem from="1668626124976" duration="2316000" />
+      <workItem from="1668683673189" duration="2129000" />
     </task>
     <task id="LOCAL-00001" summary="primera subida, estructura bbdd hecha">
       <created>1668586775437</created>
@@ -69,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668586775437</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="subida cambio para menu, empezamos los botones, intentar ponerle animacion al hacer nueva stage">
+      <created>1668633135244</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668633135244</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primera subida, estructura bbdd hecha" />
-    <option name="LAST_COMMIT_MESSAGE" value="primera subida, estructura bbdd hecha" />
+    <MESSAGE value="subida cambio para menu, empezamos los botones, intentar ponerle animacion al hacer nueva stage" />
+    <option name="LAST_COMMIT_MESSAGE" value="subida cambio para menu, empezamos los botones, intentar ponerle animacion al hacer nueva stage" />
   </component>
 </project>

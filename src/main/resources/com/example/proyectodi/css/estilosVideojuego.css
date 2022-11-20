@@ -11,3 +11,9 @@
 #vBoxColumna .button:hover{
 
 }
+
+#paneImagen{
+    -fx-background-color: #3a78f2;
+    -fx-background-image: url("../images/icono.jpg");
+
+}
